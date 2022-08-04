@@ -1,6 +1,6 @@
 import requests as req
 
-url="https://2dommedical.com/ptp"
+url="https://2dommedical.com/ptp/"
 
 def rem(file):
     try:
