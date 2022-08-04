@@ -5,4 +5,4 @@ def now():
 start=now()
 
 while True:
-    ptp.put("Start: "+str(start)+"\nEnd: "+str(now()))
+    ptp.put("now.txt","Start: "+str(start)+"\nEnd: "+str(now()))
